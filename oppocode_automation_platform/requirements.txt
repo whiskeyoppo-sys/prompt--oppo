@@ -1,0 +1,4 @@
+# Python requirements for OppoCode Automation Platform
+# All packages already built-in to Termux Python
+# Only packages that need explicit installation:
+# (None required for basic functionality)

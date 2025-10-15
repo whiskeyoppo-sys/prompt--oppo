@@ -1,0 +1,9 @@
+{
+    "project_name": "OppoCode Automation Platform",
+    "version": "1.0.0",
+    "analytics_enabled": true,
+    "email_notifications": false,
+    "auto_backup": true,
+    "base_url": "http://localhost:8000",
+    "timezone": "UTC"
+}

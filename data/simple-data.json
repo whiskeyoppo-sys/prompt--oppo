@@ -1,0 +1,11 @@
+{
+    "products": [
+        {"id": "P001", "name": "Smart Watch Pro", "category": "Electronics", "price": 299.99, "stock": 45, "sales": 120},
+        {"id": "P002", "name": "Wireless Earbuds X", "category": "Electronics", "price": 149.99, "stock": 12, "sales": 245},
+        {"id": "P003", "name": "Super Sport Shoes", "category": "Sports", "price": 89.99, "stock": 56, "sales": 89}
+    ],
+    "customers": [
+        {"id": "C001", "name": "Alex Johnson", "email": "alex@example.com", "tier": "Gold", "points": 1250},
+        {"id": "C002", "name": "Sara Kim", "email": "sara@example.com", "tier": "Silver", "points": 800}
+    ]
+}
